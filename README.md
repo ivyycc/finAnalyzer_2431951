@@ -1,4 +1,6 @@
-# Description for Lab Test
+# Description for Lab Test 
+
+Ivy Chepkwony: 2431951
 
 This code takes transaction data as a List of transactions and analyses income against expenses to categorize the financial health for the company. 
 
